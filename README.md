@@ -1,2 +1,4 @@
 # human-facial-expressions-detector
-I created a human facial expressions detector which will detect 7 facial expressions of a human being.
+A real-time facial emotion recognition system using CNN and OpenCV, built to detect and classify human facial expressions from webcam input into 7 emotion categories with instant visual feedback.
+
+Tech Stack: Python, OpenCV, TensorFlow/Keras
